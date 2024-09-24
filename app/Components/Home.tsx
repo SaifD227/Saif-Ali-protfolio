@@ -81,11 +81,6 @@ const Home = () => {
                 <Link href="#Contact">Contact us</Link>
               </li>
             </ul>
-            <div className="md:hidden mt-4">
-              <button className="font-bold text-[#878484f0] hover:text-orange-500">
-                Sign up
-              </button>
-            </div>
           </nav>
           <div className="hidden md:block font-bold text-[white]">
             <Image
