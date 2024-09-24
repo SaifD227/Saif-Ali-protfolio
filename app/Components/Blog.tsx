@@ -6,7 +6,7 @@ import image1 from '../assets/download (9).jpeg';
 
 const Blog :React.FC = () => {
   return (
-    <div className="min-h-screen p-8 bg-orange-100 mt-20 from-blue-100 to-gray-200">
+    <div className="min-h-screen p-8 bg-green-200 mt-20 from-blue-100 to-gray-200">
       <header className="text-center mb-12">
         <h1 className="text-5xl font-bold text-orange-500 mb-2">My Portfolio</h1>
         <h2 className="text-lg text-gray-600">Front-End Developer</h2>
