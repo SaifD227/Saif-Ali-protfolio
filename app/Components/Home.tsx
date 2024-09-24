@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import image from "../assets/f6587f411031a412ca7f2a98ed54c15c (1).jpg";
 import Solution from "./Solution";
 import Service from "./Service";
-import photo from "../assets/Screenshot (44).png";
+import photo from "../assets/images__1_-removebg-preview (2).png";
 import Contact from "./Contact";
 import Blog from "./Blog";
 import Footer from "./Footer";
@@ -92,7 +92,8 @@ const Home = () => {
               className="rounded-full object-cover"
               src={photo}
               alt="image"
-              width={30}
+              width={50}
+              height={50}
             />
           </div>
         </div>
