@@ -41,7 +41,7 @@ const Blog :React.FC = () => {
               <strong className="text-3xl text-orange-500">Project 1:</strong><span className="text-gray-600 text-lg">E-commerce Website</span> 
               <br />
               <a
-                href="https://netflix-nu-steel.vercel.app/login"
+                href="https://eccomerce-website-swart.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-500 underline"
