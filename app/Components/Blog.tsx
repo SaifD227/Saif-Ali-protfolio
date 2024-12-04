@@ -80,7 +80,7 @@ const Blog :React.FC = () => {
           <h2 className="text-4xl font-semibold mb-4 text-orange-500">Work Experience</h2>
           <ul className="space-y-4">
             <li>
-              <strong className="font-bold text-3xl text-orange-500">Front-End Develope:</strong><p className="text-gray-600 text-lg">Front-End Developer (2022 - 2024)
+              <strong className="font-bold text-3xl text-orange-500">Front-End Developer:</strong><p className="text-gray-600 text-lg">Front-End Developer (2022 - 2024)
              </p> <br />
               <p className="text-gray-600 text-lg">
               Responsibilities: Building responsive websites, collaborating with
